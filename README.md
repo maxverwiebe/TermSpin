@@ -2,6 +2,9 @@
 
 *A tiny Python 3 helper for stylish terminal feedback.*
 
+![output](https://github.com/user-attachments/assets/86d6ac8c-1340-42e2-a4de-de430378797f)
+
+
 ---
 
 ## Features
